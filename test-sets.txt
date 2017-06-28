@@ -1,0 +1,23 @@
+
+-----TEST DECISION TREE------
+
+TEST1:
+If the weather is sunny and the humidity is high, THEN you can not play tennis. If the weather is sunny and the humidity is normal, then you can play tennis. If the weather is overcast, then you can play tennis. If the weather is rainy and the wind is strong, then you can not play tennis. If the weather is rainy and the wind is weak, then you can play tennis.
+
+
+TEST2:
+If the parents are visiting, then go to cinema. If the parents are not visiting and the weather is sunny, then play tennis. If the parents are not visiting and the weather is rainy then stay in. If the parents are not visiting and the weather is windy and your money-status is rich then go shopping. If the parents are not visiting and the weather is windy and your money-status is poor, then go to cinema.
+
+
+TEST3:
+If the starter is turning and the car has petrol then call the AA. If the starter is turning and the car has no petrol then buy some. if the starter is not turning and the lights are not working then change battery. if the starter is not turning and the lights are working and the solenoid clicks and the terminals are clean then replace starter. if the starter is not turning and the lights are working and the solenoid clicks and the terminals are not clean then clean terminals. if the starter is not turning and the lights are working and the solenoid does not click and the solenoid-fuse is ok then replace solenoide. if the starter is not turning and the lights are working and the solenoid does not click and the solenoid-fuse is not ok then replace fuse.
+
+
+
+TEST3:
+If the infection is primary bacteremia, and the site of the culture is one of the sterilesites, and the suspected portal of entry of the organism is the gastrointestinal tract then there is suggestive evidence (0.7) that the identity of the organism is bacteroides.
+
+
+TEST4:
+if the starter is not turning and the lights are working and the solenoid does not click and the solenoid-fuse is not ok then replace fuse. If the starter is turning and the car has no petrol then buy some. if the starter is not turning and the lights are not working then change battery. If the starter is turning and the car has petrol then call the AA.  if the starter is not turning and the lights are working and the solenoid clicks and the terminals are not clean then clean terminals. if the starter is not turning and the lights are working and the solenoid clicks and the terminals are clean then replace starter.  if the starter is not turning and the lights are working and the solenoid does not click and the solenoid-fuse is ok then replace solenoide. 
+
